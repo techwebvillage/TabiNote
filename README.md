@@ -1,4 +1,4 @@
-# TabiNote
+# TabiNote（たびノート）
 
 <img src="./screenshots/TabiNote.png" width="30%" alt="ロゴ">
 
