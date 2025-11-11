@@ -37,16 +37,16 @@
 
 # 利用方法
 ・ユーザー新規登録を行う、またはログインする  
-（新規登録・ログイン画面のスクショ）
+<img src=".screenshots/top.png" width="30%" alt="ロゴ">
 
 ・行った場所を写真や感想とともに投稿  
-（新規投稿画面のスクショ）
+<img src=".screenshots/new.png" width="30%" alt="ロゴ">
 
 ・他のユーザーの投稿を閲覧し、気に入った投稿に「いいね」や「コメント」を残す  
-（投稿詳細画面のスクショ）
+<img src=".screenshots/show.png" width="30%" alt="ロゴ">
 
 ・キーワードやカテゴリ検索を使い、目的地に合わせた投稿をチェック  
-（投稿一覧画面のスクショ）  
+<img src=".screenshots/index.png" width="30%" alt="ロゴ">
 
 # 機能一覧
 ・基本的なCRUD機能  
