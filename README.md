@@ -37,7 +37,7 @@
 
 # 利用方法
 ・ユーザー新規登録を行う、またはログインする  
-<img src=".screenshots/top.png" width="100%" alt="ロゴ">
+<img src=".screenshots/top.png" alt="ロゴ">
 
 ・行った場所を写真や感想とともに投稿  
 <img src=".screenshots/new.png" width="100%" alt="ロゴ">
